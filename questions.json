@@ -1,0 +1,252 @@
+{
+  "heading": "Text structure",
+  "topics": [
+    {
+      "heading": "Text structure",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What does the setting do in a story?",
+          "options": [
+            { "text": "It solves the problem" },
+            { "text": "It creates the characters" },
+            { "text": "It helps us imagine where and when the story happens" },
+            { "text": "It ends the story" }
+          ],
+          "answer": 2,
+          "explanation": "The setting paints a picture in our mind of the story's world. It helps us feel like we're there with the characters, whether it's in a castle, on a spaceship, or in a regular school."
+        },
+        {
+          "questionNo": 2,
+          "question": "How do characters help tell the story?",
+          "options": [
+            { "text": "They decide where the story happens" },
+            { "text": "They do the actions and make choices" },
+            { "text": "They tell us the place and time of the story" },
+            { "text": "They write the story" }
+          ],
+          "answer": 1,
+          "explanation": "Characters are super important because they're the ones doing things in the story. Their choices and actions make the story happen and help solve the problem."
+        },
+        {
+          "questionNo": 3,
+          "question": "What happens in the solution part of a story?",
+          "options": [
+            { "text": "The characters are introduced" },
+            { "text": "The problem gets bigger" },
+            { "text": "The story starts" },
+            { "text": "The problem is fixed" }
+          ],
+          "answer": 3,
+          "explanation": "In the solution, we see how the characters finally fix their big problem. It's like the happy ending where everything works out, and we find out what happens to the characters."
+        },
+        {
+          "questionNo": 4,
+          "question": "Choose the correct spelling:",
+          "options": [
+            { "text": "Solution" },
+            { "text": "Soluution" },
+            { "text": "Sollution" },
+            { "text": "Solusion" }
+          ],
+          "answer": 0,
+          "explanation": "The correct spelling is S-O-L-U-T-I-O-N. It means a way of solving a problem, dealing with a difficult situation, etc."
+        },
+        {
+          "questionNo": 5,
+          "question": "Complete the sentence with the appropriate word: The boy was ______ fast towards the school.",
+          "options": [
+            { "text": "ran" },
+            { "text": "run" },
+            { "text": "running" },
+            { "text": "went" }
+          ],
+          "answer": 2,
+          "explanation": "In this sentence, 'running' is the correct form of the verb because it shows the action happening right now. The boy is currently running fast towards the school. 'Ran' and 'went' are past tense, and 'run' doesn't fit here. So, 'running' is the right word to use."
+        },
+        {
+          "questionNo": 6,
+          "question": "What is the main setting of this story?",
+          "options": [
+            { "text": "A beach" },
+            { "text": "A jungle" },
+            { "text": "A city" },
+            { "text": "A school" }
+          ],
+          "answer": 1,
+          "explanation": "The story takes place during a jungle safari. The jungle is where all the action happens and where they see the animals, so it's the main setting."
+        },
+        {
+          "questionNo": 7,
+          "question": "How many main human characters are in this story?",
+          "options": [
+            { "text": "2" },
+            { "text": "3" },
+            { "text": "4" },
+            { "text": "5" }
+          ],
+          "answer": 1,
+          "explanation": "There are three main human characters mentioned: Mia, Leo, and their guide, Raj. Characters are the people (or animals) that the story is about."
+        },
+        {
+          "questionNo": 8,
+          "question": "Who is Sparky in the story?",
+          "options": [
+            { "text": "A parrot" },
+            { "text": "A tiger" },
+            { "text": "A dog" },
+            { "text": "An elephant" }
+          ],
+          "answer": 2,
+          "explanation": "Sparky is described as 'their brave dog' in the story. He's an important character because he barks at the tiger."
+        },
+        {
+          "questionNo": 9,
+          "question": "In the phrase 'sunny day,' what kind of word is 'sunny'?",
+          "options": [
+            { "text": "Noun" },
+            { "text": "Verb" },
+            { "text": "Adjective" },
+            { "text": "Adverb" }
+          ],
+          "answer": 2,
+          "explanation": "'Sunny' is an adjective because it describes the noun 'day.' Adjectives tell us more about nouns, like how they look or feel."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which of these animals did they NOT see on their safari?",
+          "options": [
+            { "text": "Elephants" },
+            { "text": "Zebras" },
+            { "text": "Parrots" },
+            { "text": "Lions" }
+          ],
+          "answer": 3,
+          "explanation": "The story lists elephants, zebras, and colourful parrots as animals they spotted, but doesn't mention lions."
+        },
+        {
+          "questionNo": 11,
+          "question": "What is the main 'problem' or exciting moment in this story?",
+          "options": [
+            { "text": "The jeep breaks down" },
+            { "text": "They get lost in the jungle" },
+            { "text": "Sparky barks at a tiger" },
+            { "text": "It starts to rain" }
+          ],
+          "answer": 2,
+          "explanation": "The moment when Sparky barks at the tiger is the most exciting part of the story. It creates a brief moment of tension, which is like a small problem in the plot."
+        },
+        {
+          "questionNo": 12,
+          "question": "In the phrase 'suddenly, Sparky barked,' what kind of word is 'suddenly'?",
+          "options": [
+            { "text": "Noun" },
+            { "text": "Verb" },
+            { "text": "Adjective" },
+            { "text": "Adverb" }
+          ],
+          "answer": 3,
+          "explanation": "'Suddenly' is an adverb. Adverbs often tell us how, when, or where something happens. Here, it tells us how Sparky barked."
+        },
+        {
+          "questionNo": 13,
+          "question": "How do the characters feel at the end of the story?",
+          "options": [
+            { "text": "Scared and worried" },
+            { "text": "Bored and tired" },
+            { "text": "Excited and happy" },
+            { "text": "Hungry and thirsty" }
+          ],
+          "answer": 2,
+          "explanation": "The story ends by saying 'They had an exciting and fun adventure together!' This tells us how the characters felt about their experience."
+        },
+        {
+          "questionNo": 14,
+          "question": "What is the preposition in the sentence 'The tiger is resting under a tree'?",
+          "options": [
+            { "text": "Is" },
+            { "text": "Resting" },
+            { "text": "Under" },
+            { "text": "Tree" }
+          ],
+          "answer": 2,
+          "explanation": "'Under' is a preposition. Prepositions show the relationship between words in a sentence, often describing location or position."
+        },
+        {
+          "questionNo": 15,
+          "question": "What is the overall plot of this story?",
+          "options": [
+            {
+              "text": "A group of friends go on a jungle safari and have an exciting adventure"
+            },
+            { "text": "A tiger chases tourists through the jungle" },
+            { "text": "A dog becomes friends with jungle animals" },
+            { "text": "A guide gets lost in the jungle with tourists" }
+          ],
+          "answer": 0,
+          "explanation": "This answer best summarizes the main events of the story, which is what the plot is all about."
+        },
+        {
+          "questionNo": 16,
+          "question": "In the phrase 'on a jungle safari,' what kind of word is 'on'?",
+          "options": [
+            { "text": "Noun" },
+            { "text": "Verb" },
+            { "text": "Adjective" },
+            { "text": "Preposition" }
+          ],
+          "answer": 3,
+          "explanation": "'On' is a preposition. It shows the relationship between the people and the safari, indicating they are participating in it."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which word is a conjunction in the sentence 'Mia, Leo, and their guide went on a safari'?",
+          "options": [
+            { "text": "And" },
+            { "text": "Leo" },
+            { "text": "Their" },
+            { "text": "Guide" }
+          ],
+          "answer": 0,
+          "explanation": "'And' is a conjunction. Conjunctions connect words, phrases, or parts of sentences together."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word is a verb in the sentence 'Raj smiled and said, 'Don't worry!''?",
+          "options": [
+            { "text": "Raj" },
+            { "text": "Smiled" },
+            { "text": "And" },
+            { "text": "Don't" }
+          ],
+          "answer": 1,
+          "explanation": "'Smiled' is a verb. It's an action word that tells us what Raj did."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which sentence best describes the setting of this story?",
+          "options": [
+            { "text": "A cold, snowy mountain on a winter day" },
+            { "text": "A busy city street on a rainy afternoon" },
+            { "text": "A sunny day in a jungle filled with various animals" },
+            { "text": "A quiet library on a school day" }
+          ],
+          "answer": 2,
+          "explanation": "This sentence combines the weather (sunny day) and the place (jungle with animals) to give the best description of the setting of our story."
+        },
+        {
+          "questionNo": 20,
+          "question": "What kind of word is 'colourful' in the phrase 'colourful parrots'?",
+          "options": [
+            { "text": "Noun" },
+            { "text": "Verb" },
+            { "text": "Adjective" },
+            { "text": "Adverb" }
+          ],
+          "answer": 2,
+          "explanation": "'Colourful' is an adjective because it describes the noun 'parrots.' It tells us what the parrots look like."
+        }
+      ]
+    }
+  ]
+}
